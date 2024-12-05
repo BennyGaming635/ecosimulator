@@ -1,1 +1,2 @@
 # ecosimulator
+To use this simulation, simply run the Python script. It will display a grid on one side (representing the ecosystem) and a live chart on the other side (tracking populations over time). Watch how seasons, weather conditions, and organisms interact dynamically, and observe population trends until the ecosystem either stabilizes or collapses.
